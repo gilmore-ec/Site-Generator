@@ -1,0 +1,2 @@
+<greet: Welcome! Whether you are a coworker, peer, or potential employer; here you will find any information regarding my professional accomplishments, skills, and more!>
+<info: Hello, I am a /status/ at Indiana University - Bloomington studying Computer Science. I enjoy traveling, fitness, foreign cultures, and live music. I have a professional background across several industries and positions. Feel free to browse and thank you for visiting my portfolio!>
